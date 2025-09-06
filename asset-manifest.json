@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cher-s/static/css/main.b232e03e.css",
+    "main.js": "/cher-s/static/js/main.eabd4493.js",
+    "static/js/453.a84ac1db.chunk.js": "/cher-s/static/js/453.a84ac1db.chunk.js",
+    "static/media/hero-bg.jpg": "/cher-s/static/media/hero-bg.66c2a71293dff544afd8.jpg",
+    "index.html": "/cher-s/index.html",
+    "main.b232e03e.css.map": "/cher-s/static/css/main.b232e03e.css.map",
+    "main.eabd4493.js.map": "/cher-s/static/js/main.eabd4493.js.map",
+    "453.a84ac1db.chunk.js.map": "/cher-s/static/js/453.a84ac1db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b232e03e.css",
+    "static/js/main.eabd4493.js"
+  ]
+}
